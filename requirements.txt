@@ -1,0 +1,3 @@
+nats-bench
+torch==2.0.0+cu118
+numpy==1.22.4
